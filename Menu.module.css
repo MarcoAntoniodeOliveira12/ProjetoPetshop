@@ -1,0 +1,31 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.navSeparator {
+    margin: 0 0.5em;
+}
+
+.navA {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: color 0.3s;
+    
+}
+
+.navA:hover {
+    color: #5636e4;
+}
+
+.vetFieldset {
+    margin-top: 0%;
+    border: 2px solid rgb(255, 0, 242); /* Exemplo de borda, ajuste conforme necessário */
+    width: 100%;
+    margin-left: 0%;
+    background-color: rgb(255, 0, 242);
+}

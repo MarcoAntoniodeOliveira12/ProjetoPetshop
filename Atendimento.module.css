@@ -1,0 +1,94 @@
+.vetFieldset {
+    margin-right: 450px;
+    margin-top: 100px;
+    margin-left: 450px;
+    border: 10px solid rgb(255, 0, 242);
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.vetlabel {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(255, 0, 242);
+    width: 175px;
+}
+
+.vetinput {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: #f7bdbd;
+    color: #5636e4;
+}
+
+.vetH1 {
+    color: rgb(255, 0, 242);
+    text-shadow: 2px 2px #000000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.vetSelect {
+    color: #5636e4;
+    border-radius: 20px;
+    border-color: black;
+    height: 27px;
+    background-color: #f7bdbd;
+    margin-left:95px;
+    width: 190px;
+    
+
+}
+
+.vetlabelEspecialidade {
+    color: rgb(255, 0, 242);
+    border-color: black;
+    
+    
+}
+
+.vetImg {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.Option {
+    text-align: center;
+    color: #5636e4;
+}
+
+.vetlabelData{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(255, 0, 242);
+    width: 175px;
+}
+
+.vetinputData {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: #f7bdbd;
+    color: #5636e4;
+    width: 185px;
+}
+
+.vetlabelMotivo{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(255, 0, 242);
+    width: 175px;
+}
+
+.vetinputMotivo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: #f7bdbd;
+    color: #5636e4;
+    
+}
